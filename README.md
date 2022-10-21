@@ -2,8 +2,6 @@
 
 - 🔭 I am currently contributing to Frontend and Backend web applications.
 
-- 🌱 I am exploring new languages and concepts and working on a personal portfolio application.
-
 - ⚡ In my free time, I like to watch videos on new concepts, learn new skills, and contribute to open source.
 
 <!---
