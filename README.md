@@ -9,15 +9,15 @@
   </a>
 </div>
 
-### :man_technologist: About Me :
+###  About Me :
 
-- 👋 Hi, I’m @Cstannahill. I am a Full Stack Software Engineer from Illinois.
+- Hello, I’m @Cstannahill. I am a Full Stack Software Engineer from Illinois.
 
-- 🔭 I am currently contributing to Frontend and Backend web applications.
+- I am currently working as a programmer for AnswerNet, and I am also working on multiple personal projects as well as trying to get more involved in the open source community.
 
-- ⚡ In my free time, I like to watch videos on new concepts, learn new skills, and contribute to open source.
+- In my free time, I like to watch videos on new concepts, practice new skills, work on personal projects and try new hobbies.
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tannahill/)
+ :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tannahill/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
