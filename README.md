@@ -17,7 +17,7 @@
 
 - In my free time, I like to watch videos on new concepts, practice new skills, work on personal projects and try new hobbies.
 
- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tannahill/)
+ How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tannahill/)
 
 ### Languages and Tools :
 
@@ -39,7 +39,7 @@
   <img style="background-color: white;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+###  My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cstannahill&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cstannahill&layout=compact&theme=vision-friendly-dark)](https://github.com/Cstannahill/github-readme-stats)
