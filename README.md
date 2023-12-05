@@ -19,7 +19,7 @@
 
  :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tannahill/)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
  
