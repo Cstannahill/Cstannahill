@@ -62,11 +62,13 @@ _See all my repos for more experiments, tools, and games._
 ## 📈 GitHub Stats
 ![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight)
 
-![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
+
 
 ---
 
 <!--START_SECTION:waka-->
+![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
