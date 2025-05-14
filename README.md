@@ -20,9 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
+
 ###  About Me :
 
 - Hello, I’m @Cstannahill. I am a Full Stack Software Engineer from Illinois.
@@ -55,7 +53,6 @@
 
 ###  My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cstannahill&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cstannahill&layout=compact&theme=vision-friendly-dark)](https://github.com/Cstannahill/github-readme-stats)
 
 <img style="height: 400px; " src="https://wakatime.com/share/@ChristianTannahill/dea5e886-c7e3-4b2f-87a3-ded1e8f2a0d4.svg"/>
@@ -63,7 +60,12 @@
 <a href="https://wakatime.com/@ChristianTannahill"><img src="https://wakatime.com/badge/user/53d17b1d-1fdb-4c23-85c0-d6d31377b62f.svg" alt="Total time coded since Jul 5 2022" /></a>
   
  </div>
+ 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-bluestyle=?for-the-badge)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
 
 <!---
 Cstannahill/Cstannahill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
