@@ -1,73 +1,58 @@
-```md
+# 👋 Hi, I’m Christian — Full‑Stack Developer & Relentless Problem‑Solver
+
+Illinois‑based software engineer with a passion for building practical, well‑designed solutions that push me to learn something new every day.  
+I thrive on **TypeScript**, **React/Next.js**, and **.NET**, but I’m equally at home experimenting with AI, DevOps, or blockchain.  
+My goal: turn ideas into polished products while continuously expanding my skill set.
+
+---
+
+## 🚀 Core Strengths
+
+| Area                | Technologies & Tools                                                                                                 |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Front End**       | React, Next.js (App Router), ShadCN UI, Tailwind CSS, HTML5/CSS3, Redux / Context                                     |
+| **Back End / APIs** | ASP.NET Core, Node.js/Express, REST & WebSockets, ADO, Entity Framework, Prisma                                            |
+| **Languages**       | **TypeScript** (preferred), JavaScript, C#, Python                                                                    |
+| **Data & DevOps**   | MSSQL, PostgreSQL, Docker, Azure (App Service, Container Instances), GitHub Actions                                   |
+| **Interests**       | AI/ML (OpenAI, Ollama), Blockchain (Synapse‑Chain), Game Dev (Unity C#), Crypto & DeFi                                |
+
+I learn fast, document thoroughly, and favor MVP‑first releases so projects deliver value early and evolve iteratively.
+
+---
+
+## 🌟 Selected Projects (last few months)
+
+| Project | Tech Highlights | What It Does |
+|---------|-----------------|--------------|
+| **[portfolio-nextjs](https://github.com/Cstannahill/portfolio-nextjs)** | Next.js 15, TypeScript, Tailwind, ShadCN | My personal site & blog, built for speed and easy content updates. |
+| **[image-transformation-api](https://github.com/Cstannahill/image-transformation-api)** | Node/TS, Sharp, Express, Docker | REST API that performs on‑the‑fly image edits (resize, crop, filters). |
+| **[ai-campfire-chat](https://github.com/Cstannahill/ai-campfire-chat)** | Next.js, OpenAI, Prisma | Cozy chat app that spins up GPT “campfire stories” with friends. |
+| **[ctgen](https://github.com/Cstannahill/ctgen)** | Node CLI, TypeScript, Inquirer | Code‑tree generator that visualises project structure and links. |
+| **[project-flow](https://github.com/Cstannahill/project-flow)** | React, .NET API, Drag‑and‑Drop | Visual planner for tasks & features with real‑time sync. |
+| **[synapse-blockchain](https://github.com/Cstannahill/synapse-blockchain)** | Python, PoS prototype | Early‑stage blockchain focused on AI model marketplaces. |
+
+_See all my repos for additional experiments, game prototypes, and utility tools._
+
+---
+
+## 📈 GitHub Stats
+
+![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight)
+
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-```
+
+## 🤝 Let’s Collaborate
+
+I’m always keen to:
+
+- **Pair on open‑source** (especially TS/React utilities, DevOps pipelines, or .NET APIs)  
+- **Tinker with AI workflows** (prompt engineering, agents, local model hosting)  
+- **Explore Web3 ideas** (smart contracts, dApps, Layer‑2 experiments)
 
 
+---
 
-
-
-
-
-
-
-<div id="container" align="center">
-<div id="header" align="center">
-  
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/christian-tannahill/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-###  About Me :
-
-- Hello, I’m @Cstannahill. I am a Full Stack Software Engineer from Illinois.
-
-- I am currently working as a programmer for AnswerNet, and I am also working on multiple personal projects as well as trying to get more involved in the open source community.
-
-- In my free time, I like to watch videos on new concepts, practice new skills, work on personal projects and try new hobbies.
-
- How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Christian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-tannahill/)
-
-### Languages and Tools :
-
-<div>
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet"  alt="DotNet" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-    <span style="background-color: white"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="50"/></span>&nbsp;
-  <img style="background-color: white;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-</div>
-
-###  My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cstannahill&layout=compact&theme=vision-friendly-dark)](https://github.com/Cstannahill/github-readme-stats)
-
-<img style="height: 400px; " src="https://wakatime.com/share/@ChristianTannahill/dea5e886-c7e3-4b2f-87a3-ded1e8f2a0d4.svg"/>
-
-<a href="https://wakatime.com/@ChristianTannahill"><img src="https://wakatime.com/badge/user/53d17b1d-1fdb-4c23-85c0-d6d31377b62f.svg" alt="Total time coded since Jul 5 2022" /></a>
-  
- </div>
- 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-bluestyle=?for-the-badge)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
-
-<!---
-Cstannahill/Cstannahill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+_“Code boldly, refactor often, and never stop learning.”_
