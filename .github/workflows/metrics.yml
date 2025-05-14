@@ -25,23 +25,23 @@ jobs:
           sudo apt-get install -y docker jq
 
       # Output context for debugging
-      - name: Debug Context
+      - name: Install Docker and jq
         run: |
-          echo "Workflow triggered by: ${{ github.actor }}"
-          echo "Repository: ${{ github.repository }}"
-          echo "Event Name: ${{ github.event_name }}"
-          echo "Environment: ${{ inputs.environment }}"
-          echo "Metrics Tag: ${{ inputs.metrics_tag }}"
+         sudo apt-get update
+         sudo apt-get install -y jq
+         sudo apt-get remove -y docker docker-engine docker.io containerd runc || true
+         curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+            sudo apt-get update
+            sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 
-      # Checkout repository
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+          - name: Checkout Repository
+            uses: actions/checkout@v3
 
-      # Metrics embed
-      - name: Metrics Embed
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use PAT for enhanced access
-          base: repositories
-          repositories: 100
-          user: ${{ github.actor }}
+          - name: Metrics Embed
+            uses: lowlighter/metrics@v3.34
+            with:
+              token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use PAT for enhanced access
+              base: repositories
+              repositories: 100
+              user: ${{ github.actor }}
