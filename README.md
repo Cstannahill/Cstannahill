@@ -25,7 +25,7 @@ I learn fast, document thoroughly, and favor MVP‑first releases so projects de
 | Project | Tech Highlights | What It Does |
 |---------|-----------------|--------------|
 | **[portfolio-nextjs](https://github.com/Cstannahill/portfolio-nextjs)** | Next.js 15, TypeScript, Tailwind, ShadCN | My personal site & blog, built for speed and easy content updates. |
-| **[image-transformation-api](https://github.com/Cstannahill/image-transformation-api)** | Node/TS, Sharp, Express, Docker | REST API that performs on‑the‑fly image edits (resize, crop, filters). |
+| **[image-transformation-api](https://github.com/Cstannahill/image-transformation-api)** | Docker,.NET Minimal API | REST API that performs on‑the‑fly image edits (resize, crop, filters, convert). |
 | **[ai-campfire-chat](https://github.com/Cstannahill/ai-campfire-chat)** | Next.js, OpenAI, Prisma | Cozy chat app that spins up GPT “campfire stories” with friends. |
 | **[ctgen](https://github.com/Cstannahill/ctgen)** | Node CLI, TypeScript, Inquirer | Code‑tree generator that visualises project structure and links. |
 | **[project-flow](https://github.com/Cstannahill/project-flow)** | React, .NET API, Drag‑and‑Drop | Visual planner for tasks & features with real‑time sync. |
