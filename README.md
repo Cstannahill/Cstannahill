@@ -67,17 +67,15 @@ _See all my repos for more experiments, tools, and games._
 ---
 
 <!--START_SECTION:waka-->
-![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C651%20hrs%2050%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%2027%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 183 Contributions in the Year 2025
+> 🏆 186 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,18 +86,18 @@ _See all my repos for more experiments, tools, and games._
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                673 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-🌆 Daytime                4174 commits        █████████████░░░░░░░░░░░░   53.54 % 
-🌃 Evening                1966 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌙 Night                  983 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌞 Morning                676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+🌆 Daytime                4174 commits        █████████████░░░░░░░░░░░░   53.52 % 
+🌃 Evening                1966 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌙 Night                  983 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  1543 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Wednesday                1725 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Thursday                 1981 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Monday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Tuesday                  1543 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Wednesday                1728 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Thursday                 1981 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
 Friday                   1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 Saturday                 199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 Sunday                   42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
@@ -148,11 +146,10 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
+![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
 
 
-
-
- Last Updated on 14/05/2025 12:02:50 UTC
+ Last Updated on 14/05/2025 18:43:53 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let’s Collaborate
