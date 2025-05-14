@@ -1,6 +1,17 @@
-<!--START_SECTION:metrics-->
-![Metrics](https://github.com/Cstannahill/Cstannahill/blob/main/github-metrics.svg)
-<!--END_SECTION:metrics-->
+```md
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+```
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
+
+`SHOW_TOTAL_CODE_TIME`       flag can be set to `False` to hide *Code Time*
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C438%20hrs%2054%20mins-blue)
+
+`SHOW_PROFILE_VIEWS`       flag can be set to `False` to hide the Profile views
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)
 <div id="container" align="center">
 <div id="header" align="center">
   
