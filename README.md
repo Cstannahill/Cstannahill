@@ -1,4 +1,6 @@
-
+<!--START_SECTION:metrics-->
+![Metrics](https://github.com/Cstannahill/Cstannahill/blob/main/github-metrics.svg)
+<!--END_SECTION:metrics-->
 <div id="container" align="center">
 <div id="header" align="center">
   
