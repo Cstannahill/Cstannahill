@@ -14,7 +14,7 @@ My goal: turn ideas into polished products while continuously expanding my skill
 | **Back End / APIs** | ASP.NET Core, Node.js/Express, REST & WebSockets, ADO, Entity Framework, Prisma                                            |
 | **Languages**       | **TypeScript** (preferred), JavaScript, C#, Python                                                                    |
 | **Data & DevOps**   | MSSQL, PostgreSQL, Docker, Azure (App Service, Container Instances), GitHub Actions                                   |
-| **Interests**       | AI/ML (OpenAI, Ollama), Blockchain (Synapse‑Chain), Game Dev (Unity C#), Crypto & DeFi                                |
+| **Interests**       | AI/ML (OpenAI, Ollama, Hugging Face), Blockchain (Synapse‑Chain), Development Tools, Game Dev (Unity C#), Crypto & DeFi                                |
 
 I learn fast, document thoroughly, and favor MVP‑first releases so projects deliver value early and evolve iteratively.
 
@@ -36,7 +36,6 @@ _See all my repos for additional experiments, game prototypes, and utility tools
 ---
 
 ## 📈 GitHub Stats
-![My GitHub metrics](./metrics.svg)
 ![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
@@ -48,7 +47,7 @@ _See all my repos for additional experiments, game prototypes, and utility tools
 
 I’m always keen to:
 
-- **Pair on open‑source** (especially TS/React utilities, DevOps pipelines, or .NET APIs)  
+- **Pair on open‑source** (especially TS/React utilities, AI, DevOps pipelines, or .NET APIs)  
 - **Tinker with AI workflows** (prompt engineering, agents, local model hosting)  
 - **Explore Web3 ideas** (smart contracts, dApps, Layer‑2 experiments)
 
