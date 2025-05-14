@@ -36,7 +36,7 @@ _See all my repos for additional experiments, game prototypes, and utility tools
 ---
 
 ## 📈 GitHub Stats
-
+![My GitHub metrics](./metrics.svg)
 ![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
