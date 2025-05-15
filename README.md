@@ -60,7 +60,7 @@ _See all my repos for more experiments, tools, and games._
 
 
 ## 📈 GitHub Stats
-![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight) | <figure><embed src="https://wakatime.com/share/@ChristianTannahill/a0b14e61-5152-43c8-bccc-2cac859ed487.svg"></embed></figure>
+![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight) | ![WakaTime Coding Languages](https://wakatime.com/share/@ChristianTannahill/a0b14e61-5152-43c8-bccc-2cac859ed487.svg)
 
 
 
