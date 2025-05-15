@@ -22,26 +22,28 @@ jobs:
       - name: Install Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y docker jq
+          sudo apt-get install -y jq
 
-      # Output context for debugging
+      # Install Docker
       - name: Install Docker
         run: |
-         sudo apt-get update
-         sudo apt-get remove -y docker docker-engine docker.io containerd runc || true
-         sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
-         curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+          sudo apt-get update
+          sudo apt-get remove -y docker docker-engine docker.io containerd runc || true
+          sudo apt-get install -y apt-transport-https ca-certificates curl software-properties-common
+          curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
           echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
           sudo apt-get update
           sudo apt-get install -y docker-ce docker-ce-cli containerd.io
 
-          - name: Checkout Repository
-            uses: actions/checkout@v3
+      # Checkout repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-          - name: Metrics Embed
-            uses: lowlighter/metrics@v3.34
-            with:
-              token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use PAT for enhanced access
-              base: repositories
-              repositories: 100
-              user: ${{ github.actor }}
+      # Metrics Embed
+      - name: Metrics Embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use PAT for enhanced access
+          base: repositories
+          repositories: 100
+          user: ${{ github.actor }}
