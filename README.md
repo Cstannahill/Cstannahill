@@ -1,21 +1,46 @@
-# 👋 Hi, I’m Christian — Full‑Stack Developer & Relentless Problem‑Solver
+<!-- filepath: /workspaces/Cstannahill/README.md -->
+
+# 👋 Hi, I'm Christian — Full‑Stack Developer & Relentless Problem‑Solver
 
 Illinois-based software engineer with a passion for building practical, well‑designed solutions that push me to learn something new every day.  
-I thrive on **TypeScript**, **React/Next.js**, and **.NET**, but I’m equally at home experimenting with **AI**, **DevOps**, and **blockchain**.
+I thrive on **TypeScript**, **React/Next.js**, and **.NET**, but I'm equally at home experimenting with **AI**, **DevOps**, and **blockchain**.
 
-My goal: turn ideas into polished products while continuously expanding my skill set.
+My goal: turn ideas into polished products while continuously expanding my skill set.
 
 ---
 
 ## 🚀 Core Strengths
 
-| Area                | Technologies & Tools                                                                                               |
-|---------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Front End**       | React, Next.js (App Router), ShadCN UI, Tailwind CSS, HTML5/CSS3, Redux, Zustand, Context                          |
-| **Back End / APIs** | ASP.NET Core, Node.js/Express, REST & WebSockets, ADO.NET, Entity Framework, Prisma                                |
-| **Languages**       | **TypeScript** (preferred), JavaScript, C#, Python                                                                 |
-| **Data & DevOps**   | MSSQL, PostgreSQL, Docker, Azure (App Service, Container Instances), GitHub Actions                                |
-| **Interests**       | AI/ML (OpenAI, Ollama, Hugging Face), Blockchain (Synapse‑Chain), Dev Tools, Game Dev (Unity C#), Crypto & DeFi     |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Area</th>
+      <th align="left">Technologies & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Front End</strong></td>
+      <td>React, Next.js (App Router), ShadCN UI, Tailwind CSS, HTML5/CSS3, Redux, Zustand, Context</td>
+    </tr>
+    <tr>
+      <td><strong>Back End / APIs</strong></td>
+      <td>ASP.NET Core, Node.js/Express, REST & WebSockets, ADO.NET, Entity Framework, Prisma</td>
+    </tr>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td><strong>TypeScript</strong> (preferred), JavaScript, C#, Python</td>
+    </tr>
+    <tr>
+      <td><strong>Data & DevOps</strong></td>
+      <td>MSSQL, PostgreSQL, Docker, Azure (App Service, Container Instances), GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><strong>Interests</strong></td>
+      <td>AI/ML (OpenAI, Ollama, Hugging Face), Blockchain (Synapse‑Chain), Dev Tools, Game Dev (Unity C#), Crypto & DeFi</td>
+    </tr>
+  </tbody>
+</table>
 
 I build fast, document thoroughly, and prioritize MVP-first releases so projects deliver value early and evolve iteratively.
 
@@ -23,144 +48,189 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 
 ## 💻 Technologies I Love Working With
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
 
 ---
 
 ## 🧠 Currently Learning / Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=orange" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=orange" alt="Blockchain" />
+</div>
 
 ---
 
 ## 🌟 Selected Projects
 
-| Project | Tech Highlights | What It Does |
-|---------|-----------------|--------------|
-| **[portfolio-nextjs](https://github.com/Cstannahill/portfolio-nextjs)** | Next.js 15, TypeScript, Tailwind, ShadCN | Personal site & blog, built for speed and easy content updates. |
-| **[image-transformation-api](https://github.com/Cstannahill/image-transformation-api)** | Docker, .NET Minimal API | REST API that performs on‑the‑fly image edits (resize, crop, filters, convert). |
-| **[ai-campfire-chat](https://github.com/Cstannahill/ai-campfire-chat)** | Next.js, OpenAI, Prisma | Cozy GPT-powered chat app for storytelling with friends. |
-| **[ctgen](https://github.com/Cstannahill/ctgen)** | Node CLI, TypeScript, Inquirer | CLI that generates and visualizes project folder structures. |
-| **[project-flow](https://github.com/Cstannahill/project-flow)** | React, .NET API, Drag‑and‑Drop | Visual project planner with real-time task and feature mapping. |
-| **[synapse-blockchain](https://github.com/Cstannahill/synapse-blockchain)** | Python, PoS prototype | Early-stage blockchain for decentralized AI model marketplaces. |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Tech Highlights</th>
+      <th align="left">What It Does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Cstannahill/portfolio-nextjs"><strong>portfolio-nextjs</strong></a></td>
+      <td>Next.js 15, TypeScript, Tailwind, ShadCN</td>
+      <td>Personal site & blog, built for speed and easy content updates.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cstannahill/image-transformation-api"><strong>image-transformation-api</strong></a></td>
+      <td>Docker, .NET Minimal API</td>
+      <td>REST API that performs on‑the‑fly image edits (resize, crop, filters, convert).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cstannahill/ai-campfire-chat"><strong>ai-campfire-chat</strong></a></td>
+      <td>Next.js, OpenAI, Prisma</td>
+      <td>Cozy GPT-powered chat app for storytelling with friends.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cstannahill/ctgen"><strong>ctgen</strong></a></td>
+      <td>Node CLI, TypeScript, Inquirer</td>
+      <td>CLI that generates and visualizes project folder structures.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cstannahill/project-flow"><strong>project-flow</strong></a></td>
+      <td>React, .NET API, Drag‑and‑Drop</td>
+      <td>Visual project planner with real-time task and feature mapping.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Cstannahill/synapse-blockchain"><strong>synapse-blockchain</strong></a></td>
+      <td>Python, PoS prototype</td>
+      <td>Early-stage blockchain for decentralized AI model marketplaces.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-_See all my repos for more experiments, tools, and games._
+<p align="center"><em>See all my repos for more experiments, tools, and games.</em></p>
 
 ---
 
-
 ## 📈 GitHub Stats
-![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight) | <img src="https://wakatime.com/share/@ChristianTannahill/a0b14e61-5152-43c8-bccc-2cac859ed487.svg" alt="WakaTime Coding Languages" width="500" height="300"/>
 
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Cstannahill&show_icons=true&hide_border=true&theme=tokyonight" alt="Christian's GitHub stats" /></td>
+      <td><img src="https://wakatime.com/share/@ChristianTannahill/a0b14e61-5152-43c8-bccc-2cac859ed487.svg" alt="WakaTime Coding Languages" width="450" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs-blue)
+<div align="center">
+  
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue?style=for-the-badge)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue)
+</div>
 
-**🐱 My GitHub Data** 
+### 🐱 My GitHub Data
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+>
 > 🏆 186 Contributions in the Year 2025
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 29 Public Repositories
+>
+> 🔑 0 Private Repositories
+
+### ⏰ **I'm an Early 🐤**
 
 ```text
-🌞 Morning                676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-🌆 Daytime                4174 commits        █████████████░░░░░░░░░░░░   53.52 % 
-🌃 Evening                1966 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-🌙 Night                  983 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌞 Morning                676 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+🌆 Daytime                4174 commits        █████████████░░░░░░░░░░░░   53.52 %
+🌃 Evening                1966 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 %
+🌙 Night                  983 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+### 📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Tuesday                  1543 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Wednesday                1728 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Thursday                 1981 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Friday                   1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Sunday                   42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Monday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Tuesday                  1543 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+Wednesday                1728 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 %
+Thursday                 1981 commits        ██████░░░░░░░░░░░░░░░░░░░   25.40 %
+Friday                   1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Saturday                 199 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Sunday                   42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+### 📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Chicago
 
-💬 Programming Languages: 
-TypeScript               19 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.64 % 
-C#                       4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-JSON                     4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Binary                   4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Markdown                 2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+💬 Programming Languages:
+TypeScript               19 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   40.64 %
+C#                       4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+JSON                     4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Binary                   4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+Markdown                 2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 
-🔥 Editors: 
-VS Code                  37 hrs 9 mins       ████████████████████░░░░░   78.39 % 
-Visual Studio            9 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Unknown Editor           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+🔥 Editors:
+VS Code                  37 hrs 9 mins       ████████████████████░░░░░   78.39 %
+Visual Studio            9 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 %
+Unknown Editor           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 
-🐱‍💻 Projects: 
-ollama-chat-app          9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-ImageApi                 7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-ctgen                    6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-ecommerce-store          5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-portfolio-nextjs         3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+🐱‍💻 Projects:
+ollama-chat-app          9 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 %
+ImageApi                 7 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 %
+ctgen                    6 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 %
+ecommerce-store          5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
+portfolio-nextjs         3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 
-💻 Operating System: 
-Windows                  47 hrs 24 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  47 hrs 24 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+### 👨‍💻 **I Mostly Code in TypeScript**
 
 ```text
-TypeScript               28 repos            ███████████████░░░░░░░░░░   59.57 % 
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               28 repos            ███████████████░░░░░░░░░░   59.57 %
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 %
+C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
+### **Timeline**
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png" alt="Lines of Code chart" />
+</div>
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
-
-
- Last Updated on 15/05/2025 06:32:34 UTC
+<div align="center">
+  <em>Last Updated on 15/05/2025 06:32:34 UTC</em>
+</div>
 <!--END_SECTION:waka-->
 
-## 🤝 Let’s Collaborate
+## 🤝 Let's Collaborate
 
-I’m always keen to:
+I'm always keen to:
 
-- **Pair on open‑source** (especially TS/React utilities, AI, DevOps pipelines, or .NET APIs)  
-- **Tinker with AI workflows** (prompt engineering, agents, local model hosting)  
+- **Pair on open‑source** (especially TS/React utilities, AI, DevOps pipelines, or .NET APIs)
+- **Tinker with AI workflows** (prompt engineering, agents, local model hosting)
 - **Explore Web3 ideas** (smart contracts, dApps, Layer‑2 experiments)
-
 
 ---
 
-_“Code boldly, refactor often, and never stop learning.”_
+<div align="center">
+  <em>"Code boldly, refactor often, and never stop learning."</em>
+</div>
