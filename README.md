@@ -49,31 +49,43 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 ## 💻 Technologies I Love Working With
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
+
+---
+
+| Technology | Badge |
+|------------|-------|
+| React      | ![React](https://img.shields.io/badge/-20232A?logo=react&logoColor=61DAFB&style=plastic) |
+| Next.js    | ![Next.js](https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic) |
+| .NET       | ![.NET](https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic) |
+| TypeScript | ![TypeScript](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic) |
+| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=plastic) |
+| MSSQL      | ![MSSQL](https://img.shields.io/badge/-CC2927?logo=microsoftsqlserver&logoColor=white&style=plastic) |
+| Python     | ![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic) |
+| Lua        | ![Lua](https://img.shields.io/badge/-2C2D72?logo=lua&logoColor=white&style=plastic) |
 
 ---
 
 ## 🧠 Currently Learning / Exploring
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=bitcoin&logoColor=orange" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Blockchain-121212?style=plastic&logo=bitcoin&logoColor=orange" alt="Blockchain" />
 </div>
 
 ---
-
-## 🌟 Selected Projects
 
 <div align="center">
 <table>
   <thead>
     <tr>
+      <th align="left">Language / Framework</th>
       <th align="left">Project</th>
       <th align="left">Tech Highlights</th>
       <th align="left">What It Does</th>
@@ -81,31 +93,39 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
   </thead>
   <tbody>
     <tr>
+      <div style="text-align: center;">
+      <td ><img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
+      </div>
       <td><a href="https://github.com/Cstannahill/portfolio-nextjs"><strong>portfolio-nextjs</strong></a></td>
       <td>Next.js 15, TypeScript, Tailwind, ShadCN</td>
       <td>Personal site & blog, built for speed and easy content updates.</td>
     </tr>
     <tr>
+      <td style="text-align: center;"><img src="https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic" alt=".NET"></td>
       <td><a href="https://github.com/Cstannahill/image-transformation-api"><strong>image-transformation-api</strong></a></td>
       <td>Docker, .NET Minimal API</td>
       <td>REST API that performs on‑the‑fly image edits (resize, crop, filters, convert).</td>
     </tr>
     <tr>
+      <td style="text-align: center;"><img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
       <td><a href="https://github.com/Cstannahill/ai-campfire-chat"><strong>ai-campfire-chat</strong></a></td>
       <td>Next.js, OpenAI, Prisma</td>
       <td>Cozy GPT-powered chat app for storytelling with friends.</td>
     </tr>
     <tr>
+      <td style="text-align: center;"><img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript"></td>
       <td><a href="https://github.com/Cstannahill/ctgen"><strong>ctgen</strong></a></td>
       <td>Node CLI, TypeScript, Inquirer</td>
       <td>CLI that generates and visualizes project folder structures.</td>
     </tr>
     <tr>
+      <td style="text-align: center;"><img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=plastic" alt="React"></td>
       <td><a href="https://github.com/Cstannahill/project-flow"><strong>project-flow</strong></a></td>
       <td>React, .NET API, Drag‑and‑Drop</td>
       <td>Visual project planner with real-time task and feature mapping.</td>
     </tr>
     <tr>
+      <td style="text-align: center;"><img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic" alt="Python"></td>
       <td><a href="https://github.com/Cstannahill/synapse-blockchain"><strong>synapse-blockchain</strong></a></td>
       <td>Python, PoS prototype</td>
       <td>Early-stage blockchain for decentralized AI model marketplaces.</td>
@@ -134,9 +154,18 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 <!--START_SECTION:waka-->
 <div align="center">
   
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs-blue?style=for-the-badge)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue?style=for-the-badge)
-
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs-blue?style=plastic)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue?style=plastic)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=plastic)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+![React](https://img.shields.io/badge/-2F4F4F?logo=react&logoColor=#008080&style=plastic)
+![Next.js](https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic)
+![.NET](https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic)
+![TypeScript](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic)
+![PostgreSQL](https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=plastic)
+![MSSQL](https://img.shields.io/badge/-CC2927?logo=microsoftsqlserver&logoColor=white&style=plastic)
+![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic)
+![Lua](https://img.shields.io/badge/-2C2D72?logo=lua&logoColor=white&style=plastic)
 </div>
 
 ### 🐱 My GitHub Data
