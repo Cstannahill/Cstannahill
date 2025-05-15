@@ -67,7 +67,7 @@ _See all my repos for more experiments, tools, and games._
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C651%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue)
 
@@ -149,7 +149,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 18:43:53 UTC
+ Last Updated on 15/05/2025 06:32:34 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let’s Collaborate
