@@ -130,39 +130,48 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img height="35rem" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"><img height="35rem" src="https://img.shields.io/badge/-000000?logo=mdx&logoColor=yellow&style=plastic" alt="Next.js"></td>
+      <td align="center"><img height="35rem" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js">
+        &nbsp;&nbsp;
+      <img height="35rem" src="https://img.shields.io/badge/-000000?logo=mdx&logoColor=yellow&style=plastic" alt="Next.js"></td>
       <td><a href="https://github.com/Cstannahill/portfolio-nextjs"><strong>portfolio-nextjs</strong></a></td>
       <td>Next.js 15, TypeScript, Tailwind, ShadCN</td>
       <td>Personal site & blog, built for speed and easy content updates.</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic"  height="35rem" alt=".NET"><img src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white&style=plastic"  height="35rem" alt="Docker"></td>
+      <td align="center"><img src="https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic"  height="35rem" alt=".NET">
+        &nbsp;&nbsp;
+        <img src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white&style=plastic"  height="35rem" alt="Docker"></td>
       <td><a href="https://github.com/Cstannahill/image-transformation-api"><strong>image-transformation-api</strong></a></td>
       <td>Docker, .NET Minimal API</td>
       <td>REST API that performs on‑the‑fly image edits (resize, crop, filters, convert).</td>
     </tr>
     <tr>
-      <td align="center"><img style="margin: 5rem, 0;" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic"  height="35rem" alt="Next.js"> <img src="https://img.shields.io/badge/-ffffff?logo=openai&logoColor=412991&style=plastic"  height="35rem" alt="Next.js"></td>
+      <td align="center"><img style="margin: 5rem, 0;" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic"  height="35rem" alt="Next.js">
+      &nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-ffffff?logo=openai&logoColor=412991&style=plastic"  height="35rem" alt="Next.js"></td>
       <td><a href="https://github.com/Cstannahill/ai-campfire-chat"><strong>ai-campfire-chat</strong></a></td>
       <td>Next.js, OpenAI, Prisma</td>
       <td>Cozy GPT-powered chat app for storytelling with friends.</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic"  height="35rem" alt="TypeScript"><img src="https://img.shields.io/badge/-339933?style=plastic&logo=nodedotjs&logoColor=white" height="35rem" alt="Node.js" />
+      <td align="center"><img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic"  height="35rem" alt="TypeScript">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-339933?style=plastic&logo=nodedotjs&logoColor=white" height="35rem" alt="Node.js" />
 </td>
       <td><a href="https://github.com/Cstannahill/ctgen"><strong>ctgen</strong></a></td>
       <td>Node CLI, TypeScript, Inquirer</td>
       <td>CLI that generates and visualizes project folder structures.</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-222222?logo=react&logoColor=61DAFB&style=plastic" height="35rem" alt="React"><img src="https://img.shields.io/badge/-fefefe?style=plastic&logo=mermaid&logoColor=FF3670" height="35rem" alt="Mermaid.js" />
+      <td align="center"><img src="https://img.shields.io/badge/-222222?logo=react&logoColor=61DAFB&style=plastic" height="35rem" alt="React">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-fefefe?style=plastic&logo=mermaid&logoColor=FF3670" height="35rem" alt="Mermaid.js" />
 </td>
       <td><a href="https://github.com/Cstannahill/project-flow"><strong>project-flow</strong></a></td>
       <td>React, .NET API, Drag‑and‑Drop</td>
       <td>Visual project planner with real-time task and feature mapping.</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic"  height="35rem" alt="Python"> <img src="https://img.shields.io/badge/-121212?style=plastic&logo=bitcoin&logoColor=orange" height="35rem" alt="Blockchain" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic"  height="35rem" alt="Python">&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/-121212?style=plastic&logo=bitcoin&logoColor=orange" height="35rem" alt="Blockchain" /></td>
       <td><a href="https://github.com/Cstannahill/synapse-blockchain"><strong>synapse-blockchain</strong></a></td>
       <td>Python, PoS prototype</td>
       <td>Early-stage blockchain for decentralized AI model marketplaces.</td>
