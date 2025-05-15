@@ -93,9 +93,7 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
   </thead>
   <tbody>
     <tr>
-      <div style="text-align: center;">
-      <td ><img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
-      </div>
+      <td style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
       <td><a href="https://github.com/Cstannahill/portfolio-nextjs"><strong>portfolio-nextjs</strong></a></td>
       <td>Next.js 15, TypeScript, Tailwind, ShadCN</td>
       <td>Personal site & blog, built for speed and easy content updates.</td>
