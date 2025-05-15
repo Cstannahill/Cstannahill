@@ -49,23 +49,29 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 ## 💻 Technologies I Love Working With
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-222222?style=plastic&logo=react&logoColor=62d9fb" alt="React" height="25rem" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" height="25rem" alt="Next.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white" height="25rem" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" height="25rem" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" height="25rem" alt="SQL" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" height="25rem" alt="OpenAI" />
 </div>
 
----
 
-
-
-## Technologies I am interested in learning or exploring
+## 🧠 Currently Learning / Exploring
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=plastic&logo=blazor&logoColor=white" alt="Blazor" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=plastic&logo=blazor&logoColor=white" height="25rem" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height="25rem" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ollama-ffffff?style=plastic&logo=ollama&logoColor=000000" height="25rem" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LangChain-D4FF00?style=plastic&logo=langchain&logoColor=black" height="25rem" alt="LangChain Badge" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=plastic&logo=langgraph&logoColor=white" height="25rem" alt="LangGraph Badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" height="25rem" alt="C++" />
+  <img src="https://img.shields.io/badge/Blockchain-121212?style=plastic&logo=bitcoin&logoColor=orange" height="25rem" alt="Blockchain" />
 </div>
 
 
@@ -80,16 +86,6 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 | MSSQL      | ![MSSQL](https://img.shields.io/badge/-CC2927?logo=microsoftsqlserver&logoColor=white&style=plastic) |
 | Python     | ![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic) |
 | Lua        | ![Lua](https://img.shields.io/badge/-2C2D72?logo=lua&logoColor=white&style=plastic) |
-
----
-
-## 🧠 Currently Learning / Exploring
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Blockchain-121212?style=plastic&logo=bitcoin&logoColor=orange" alt="Blockchain" />
-</div>
 
 ---
 
