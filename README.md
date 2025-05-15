@@ -102,17 +102,60 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 </div>
 
 
+<h2 align="center">⚙️ Tech Explored</h2>
 
-| Technology | Badge |
-|------------|-------|
-| React      | ![React](https://img.shields.io/badge/-20232A?logo=react&logoColor=61DAFB&style=plastic) |
-| Next.js    | ![Next.js](https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic) |
-| .NET       | ![.NET](https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic) |
-| TypeScript | ![TypeScript](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic) |
-| PostgreSQL | ![PostgreSQL](https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=plastic) |
-| MSSQL      | ![MSSQL](https://img.shields.io/badge/-CC2927?logo=microsoftsqlserver&logoColor=white&style=plastic) |
-| Python     | ![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic) |
-| Lua        | ![Lua](https://img.shields.io/badge/-2C2D72?logo=lua&logoColor=white&style=plastic) |
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-00599C?logo=c%2B%2B&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-2C2D72?logo=lua&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-20232A?logo=react&logoColor=61DAFB&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-000000?logo=nextdotjs&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-06B6D4?logo=tailwindcss&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-000000?logo=stripe&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-ffffff?logo=redux&logoColor=764ABC&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-333333?logo=npm&logoColor=white&style=plastic&label=Inquirer" width="60rem" height="45rem"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-512BD4?logo=blazor&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-339933?logo=nodedotjs&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-000000?logo=express&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-512BD4?logo=dotnet&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-2D3748?logo=prisma&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-CC2927?logo=microsoftsqlserver&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-6C3483?logo=dotnet&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-412991?logo=openai&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/Anthropic-1A1A1A?style=plastic&logo=anthropic&logoColor=white" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/LangChain-D4FF00?style=plastic&logo=langchain&logoColor=black" width="60rem" height="45rem"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/LangGraph-000000?style=plastic&logoColor=white" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/Azure-0089D6?logo=azuredevops&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-2088FF?logo=githubactions&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-fefefe?logo=mermaid&logoColor=FF3670&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-000000?logo=mdx&logoColor=yellow&style=plastic" width="60rem" height="45rem"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-6E4C13?logo=jsonwebtokens&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-7B4EA3?logo=nestjs&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-FFCB2B?logo=vite&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-333333?logo=electron&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+      <td><img src="https://img.shields.io/badge/-005F69?logo=swagger&logoColor=white&style=plastic" width="60rem" height="45rem"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
