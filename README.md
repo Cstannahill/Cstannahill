@@ -58,6 +58,18 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 
 ---
 
+
+
+## Technologies I am interested in learning or exploring
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=plastic&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white" alt="OpenAI" />
+</div>
+
+
+
 | Technology | Badge |
 |------------|-------|
 | React      | ![React](https://img.shields.io/badge/-20232A?logo=react&logoColor=61DAFB&style=plastic) |
@@ -93,37 +105,37 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
+      <td align="center"><img style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
       <td><a href="https://github.com/Cstannahill/portfolio-nextjs"><strong>portfolio-nextjs</strong></a></td>
       <td>Next.js 15, TypeScript, Tailwind, ShadCN</td>
       <td>Personal site & blog, built for speed and easy content updates.</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><img src="https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic" alt=".NET"></td>
+      <td style="align: center;"><img src="https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic" alt=".NET"></td>
       <td><a href="https://github.com/Cstannahill/image-transformation-api"><strong>image-transformation-api</strong></a></td>
       <td>Docker, .NET Minimal API</td>
       <td>REST API that performs on‑the‑fly image edits (resize, crop, filters, convert).</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
+      <td style="align: center;"><img src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js"></td>
       <td><a href="https://github.com/Cstannahill/ai-campfire-chat"><strong>ai-campfire-chat</strong></a></td>
       <td>Next.js, OpenAI, Prisma</td>
       <td>Cozy GPT-powered chat app for storytelling with friends.</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript"></td>
+      <td style="align: center;"><img src="https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic" alt="TypeScript"></td>
       <td><a href="https://github.com/Cstannahill/ctgen"><strong>ctgen</strong></a></td>
       <td>Node CLI, TypeScript, Inquirer</td>
       <td>CLI that generates and visualizes project folder structures.</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=plastic" alt="React"></td>
+      <td style="align: center;"><img src="https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=plastic" alt="React"></td>
       <td><a href="https://github.com/Cstannahill/project-flow"><strong>project-flow</strong></a></td>
       <td>React, .NET API, Drag‑and‑Drop</td>
       <td>Visual project planner with real-time task and feature mapping.</td>
     </tr>
     <tr>
-      <td style="text-align: center;"><img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic" alt="Python"></td>
+      <td style="align: center;"><img src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic" alt="Python"></td>
       <td><a href="https://github.com/Cstannahill/synapse-blockchain"><strong>synapse-blockchain</strong></a></td>
       <td>Python, PoS prototype</td>
       <td>Early-stage blockchain for decentralized AI model marketplaces.</td>
@@ -154,16 +166,7 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
   
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C645%20hrs-blue?style=plastic)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-283-blue?style=plastic)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=plastic)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-![React](https://img.shields.io/badge/-2F4F4F?logo=react&logoColor=#008080&style=plastic)
-![Next.js](https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic)
-![.NET](https://img.shields.io/badge/-512BD4?logo=.net&logoColor=white&style=plastic)
-![TypeScript](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=plastic)
-![PostgreSQL](https://img.shields.io/badge/-336791?logo=postgresql&logoColor=white&style=plastic)
-![MSSQL](https://img.shields.io/badge/-CC2927?logo=microsoftsqlserver&logoColor=white&style=plastic)
-![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=FFD43B&style=plastic)
-![Lua](https://img.shields.io/badge/-2C2D72?logo=lua&logoColor=white&style=plastic)
+
 </div>
 
 ### 🐱 My GitHub Data
