@@ -44,6 +44,38 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use PAT for enhanced access
-          base: repositories
           repositories: 100
-          user: ${{ github.actor }}
+                    # Options
+          user: cstannahill
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: America/Chicago
+          
+          # Plugins
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          plugin_lines: yes
+          
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          plugin_stargazers: yes
+          
+          plugin_projects: yes
+          plugin_projects_limit: 4
