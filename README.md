@@ -239,7 +239,11 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 </div>
 
 ---
+<div align="center">
+  <img src="https://github.com/Cstannahill/Cstannahill/blob/main/github-metrics.svg" alt="Christian's GitHub metrics"/>
+</div>
 
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C688%20hrs%2047%20mins-blue)
 
