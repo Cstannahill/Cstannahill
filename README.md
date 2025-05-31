@@ -172,6 +172,14 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
     </tr>
   </thead>
   <tbody>
+     <tr>
+      <td align="center"><img height="35rem" src="https://img.shields.io/badge/-1C3C3C?logo=langchain&logoColor=white&style=plastic" alt="Langchain">
+        &nbsp;&nbsp;
+      <img height="35rem" src="https://img.shields.io/badge/-3776AB?logo=python&logoColor=yellow&style=plastic" alt="Python"></td>
+      <td><a href="https://github.com/Cstannahill/code-evo"><strong>code-evo</strong></a></td>
+      <td>Vite, React, TypeScript, Tailwind, Python, Langchain, MongoDB, Chroma, Ollama</td>
+      <td>A sophisticated system that analyzes Git repositories using multiple AI models to discover coding patterns, track technology evolution, and provide actionable insights for software development teams.</td>
+    </tr>
     <tr>
       <td align="center"><img height="35rem" src="https://img.shields.io/badge/-000000?logo=next.js&logoColor=white&style=plastic" alt="Next.js">
         &nbsp;&nbsp;
