@@ -261,8 +261,6 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,882 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 62 Public Repositories 
@@ -296,19 +294,16 @@ Sunday                   234 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Markdown                 4 mins              █████████████████░░░░░░░░   67.47 % 
-Text                     2 mins              ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Text                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytokenizer-aligner      4 mins              █████████████████░░░░░░░░   67.90 % 
-Unknown Project          2 mins              ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Unknown Project          2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -328,7 +323,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 18:42:54 UTC
+ Last Updated on 25/08/2025 18:44:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Collaborate
