@@ -253,13 +253,15 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C147%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,021 Contributions in the Year 2025
+> 🏆 2,042 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -267,6 +269,54 @@ I build fast, document thoroughly, and prioritize MVP-first releases so projects
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                491 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+🌆 Daytime                898 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+🌃 Evening                1259 commits        ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+🌙 Night                  1702 commits        ██████████░░░░░░░░░░░░░░░   39.13 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Tuesday                  466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Wednesday                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Thursday                 774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Friday                   542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Saturday                 1000 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Sunday                   268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+TypeScript               9 hrs 3 mins        █████████████░░░░░░░░░░░░   51.81 % 
+Bash                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+JSON                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 5 mins       ███████████████████░░░░░░   74.85 % 
+Cursor                   4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+
+🐱‍💻 Projects: 
+legislation-tracker      11 hrs 55 mins      █████████████████░░░░░░░░   68.15 % 
+data-marketplace         2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+code-evo                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+bevy-ffrpg               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+ai-model-benchmark       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+
+💻 Operating System: 
+Windows                  17 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -284,7 +334,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Cstannahill/Cstannahill/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:43:04 UTC
+ Last Updated on 04/10/2025 18:41:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Collaborate
